@@ -3,6 +3,8 @@ Hidebot
 
 Swipe to hide the bars in Tweetbot.
 
+![Demo of nav bar swiping](https://f.cloud.github.com/assets/951011/2430937/607007be-ad0e-11e3-8542-d4af131ad3eb.gif)
+
 ---------------------------------------
 [Creative Commons Attribution-NonCommercial 3.0 United States License](http://creativecommons.org/licenses/by-nc/3.0/us/) as of 2014:
 
